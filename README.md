@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+using the cisco packet tracer for the lan configuration with the router
 <!--
 **NasrathShaik002/NasrathShaik002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
