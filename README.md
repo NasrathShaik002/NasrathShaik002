@@ -48,6 +48,7 @@ I specialize in security monitoring, log analysis, vulnerability management, and
 ## 📜 Certifications
 
 * **Cyber Security Analyst - SOC Analyst** | *Credential ID: ZTR000445*
+* **Cyber Security Professional- csp** |  *Credential ID: ZTR000468*
 * **Cybersecurity Associate - SOC Analyst** | *US Council Cybereye (Credential ID: USC00016615)*
 * **Cybereye Cyber Security Professional (CSP)** | *US Council (Credential ID: USC00016646)*
 
@@ -62,9 +63,10 @@ I specialize in security monitoring, log analysis, vulnerability management, and
 
 ## 🤝 Connect With Me
 * **LinkedIn:** [Let's Network!](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
-* **Looking for:** Full-time, Internship, or Contract roles as a **SOC Analyst / Security Analyst / Service Desk Analyst**.
+* **Looking for:** Full-time, Internship, or Contract or permanent roles as a **SOC Analyst / Security Analyst / Service Desk Analyst**.
 * **Availability:** Immediately available (On-site Hyderabad, Hybrid, or Remote).
 
 <p align="center">
   <i>🛡️ Learning cybersecurity one log, one lab, and one packet at a time 🚀</i>
 </p>
+or
