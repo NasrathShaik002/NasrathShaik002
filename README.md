@@ -22,6 +22,7 @@ I specialize in security monitoring, log analysis, vulnerability management, and
 | Domain | Tools & Concepts |
 | :--- | :--- |
 | **SIEM & Monitoring** | Splunk, Wazuh, Log Analysis, Security Event Analysis |
+<img src="https://skillicons.dev/icons?i=linux" />
 | **Cybersecurity Fundamentals** | Threat Detection, Incident Analysis & Management, Mitigation Techniques |
 | **Vulnerability Management** | Vulnerability Assessment, Phishing Link Analysis, Malware Analysis Basics |
 | **Networking & Protocols** | TCP/UDP, LAN-WAN Connectivity, VLAN Configuration, NAT, IPSec VPN |
