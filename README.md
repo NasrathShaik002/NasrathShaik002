@@ -34,23 +34,10 @@ I specialize in security monitoring, log analysis, vulnerability management, and
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</p> 
-
-## 🛠️ Tools & Technologies
-
 ### 🔍 SIEM & Monitoring
 <p>
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white"/>
-</p>
-
-### 🐧 Operating Systems
-<p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali"/>
 </p>
 
 ### 🌐 Networking & Security
