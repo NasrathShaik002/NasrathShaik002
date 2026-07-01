@@ -59,7 +59,7 @@ I specialize in security monitoring, log analysis, vulnerability management, and
 
 ### 💻 Programming & Dev Tools
 <p>
-<img src="https://skillicons.dev/icons?i=python,bash,"/>
+<img src="https://skillicons.dev/icons?i=powershell,bash,"/>
 </p> 
 
 ### 🔍 Vulnerability Assessment
