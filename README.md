@@ -38,6 +38,37 @@ I specialize in security monitoring, log analysis, vulnerability management, and
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</p> 
+
+## 🛠️ Tools & Technologies
+
+### 🔍 SIEM & Monitoring
+<p>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white"/>
+</p>
+
+### 🐧 Operating Systems
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali"/>
+</p>
+
+### 🌐 Networking & Security
+<p>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white"/>
+</p>
+
+### 🛡️ Cybersecurity Tools
+<p>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+</p>
+
+### 💻 Programming & Dev Tools
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,git,docker,vscode"/>
 </p>
 ---
 
