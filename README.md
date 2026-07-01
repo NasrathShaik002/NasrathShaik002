@@ -56,6 +56,18 @@ I specialize in security monitoring, log analysis, vulnerability management, and
 ### 💻 Programming & Dev Tools
 <p>
 <img src="https://skillicons.dev/icons?i=python,bash,git,docker,vscode"/>
+</p> 
+
+### 🔍 Vulnerability Assessment
+
+<p>
+<img src="https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge&logo=tenable&logoColor=white"/>
+</p>
+
+### 🔐 Password Security
+
+<p>
+<img src="https://img.shields.io/badge/John%20the%20Ripper-333333?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </p>
 ---
 
