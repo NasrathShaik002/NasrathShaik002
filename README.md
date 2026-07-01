@@ -22,13 +22,23 @@ I specialize in security monitoring, log analysis, vulnerability management, and
 | Domain | Tools & Concepts |
 | :--- | :--- |
 | **SIEM & Monitoring** | Splunk, Wazuh, Log Analysis, Security Event Analysis |
-<img src="https://skillicons.dev/icons?i=linux" />
 | **Cybersecurity Fundamentals** | Threat Detection, Incident Analysis & Management, Mitigation Techniques |
 | **Vulnerability Management** | Vulnerability Assessment, Phishing Link Analysis, Malware Analysis Basics |
 | **Networking & Protocols** | TCP/UDP, LAN-WAN Connectivity, VLAN Configuration, NAT, IPSec VPN |
 | **Network Security** | Cisco Firewall Security, Firewall Configuration, IDS / IPS Concepts |
 | **Operating Systems** | Ubuntu Linux, Kali Linux, Linux Administration, System Administration |
 
+## 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
 ---
 
 ## 🔬 Labs & Hands-On Practice
