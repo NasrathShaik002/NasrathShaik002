@@ -49,8 +49,6 @@ I specialize in security monitoring, log analysis, vulnerability management, and
 <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white"/>
 <!-- Cisco -->
 <img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<!-- Nmap -->
-<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
 
 ### 🛡️ Cybersecurity Tools
